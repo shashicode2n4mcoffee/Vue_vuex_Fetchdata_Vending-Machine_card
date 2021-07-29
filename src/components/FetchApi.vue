@@ -1,7 +1,6 @@
 <template lang="">
   <div class="container">
     <div>
-      I am in Fetch Api
       <Button @click="fetchdata">Fetch Data</Button>
       <Button @click="deletedata">Delete Data</Button>
     </div>
